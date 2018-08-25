@@ -6,3 +6,4 @@ playerStartDirection = "down";
 enemyStartHP = 2;
 bulletSpeed = 20;
 enemyMovSpeed = 6;
+enemyShootPause = 30;
