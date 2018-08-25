@@ -9,22 +9,16 @@ if (abs(yaxis) > analogThreshold && DetectedController){
 	y += yaxis * movSpeed;
 }
 
-if(abs(yaxis > xaxis)){
-	playerDirection = "vertical";
-	/*
+if(abs(yaxis) >= abs(xaxis)){
 	if(yaxis >= analogThreshold){
 		playerDirection = "down";
 	}else if(yaxis <= -analogThreshold){
 		playerDirection = "up";
 	}
-	*/
-}else if(abs(xaxis > yaxis)){
-	playerDirection = "horizontal";
-	/*
+}else if(abs(xaxis) > abs(yaxis)){
 	if(xaxis >= analogThreshold){
 		playerDirection = "right";
 	}else if(xaxis <= -analogThreshold){
 		playerDirection = "left";
 	}
-	*/
 }
