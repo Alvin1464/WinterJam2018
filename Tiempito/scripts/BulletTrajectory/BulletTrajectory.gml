@@ -1,1 +1,2 @@
-move_towards_point(playerX,playerY,bulletSpeed);
+direction = point_direction(x,y,playerX,playerY);
+speed = bulletSpeed;
