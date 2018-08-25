@@ -6,3 +6,5 @@ playerStartDirection = "down";
 enemyStartHP = 2;
 bulletSpeed = 20;
 enemyMovSpeed = 6;
+startSpawnTimer = 20;
+spawnTimeDecrement = 3;
