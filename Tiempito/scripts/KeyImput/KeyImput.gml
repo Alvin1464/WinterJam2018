@@ -1,8 +1,11 @@
 ///Joystick
 analogThreshold = obj_gameConfig.analogThreshold;
+globalvar DetectedController;
+DetectedController = gamepad_is_connected(0);
+
 
 //These inputs are inherited by the objects invoking this script
-if gamepad_is_connected(0){ //Check if there's a Joystick
+if DetectedController{ //Check if there's a Joystick
     
 //	start = gamepad_button_check(JugadorControl,gp_start);
 	
