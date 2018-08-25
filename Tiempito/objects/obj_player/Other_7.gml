@@ -1,0 +1,1 @@
+if(sprite_index = spr_playerAttack) then sprite_index = spr_playerIdle;

@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "135b10d9-feef-40e1-9859-7b151787e7dc",
+            "Value": {
+                "id": "b2ed2c65-b280-46ea-8b5b-a8072abe92d0",
+                "resourcePath": "paths\\path2\\path2.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "1d55bb2a-8e22-4332-b29d-a07472ae1e4b",
             "Value": {
                 "id": "e2f4d452-9dd3-4e87-80c6-b6b775b3aba8",
@@ -95,10 +103,26 @@
             }
         },
         {
+            "Key": "30c77157-aef1-4323-9dee-6e9aa900e9a9",
+            "Value": {
+                "id": "8e0d2614-95f5-4366-b1eb-8168904567b4",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "3abc1415-64e7-4c69-8b14-34175f4c1fad",
             "Value": {
                 "id": "8c58b62e-e823-4637-ace1-a9191a93cadc",
                 "resourcePath": "sprites\/spr_player\/spr_player.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4014522c-f4d1-40df-920a-203b58bbf8aa",
+            "Value": {
+                "id": "9eb8320a-f0e1-42ca-8776-04021ef2d636",
+                "resourcePath": "sprites\\spr_playerAttack\\spr_playerAttack.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -175,6 +199,14 @@
             }
         },
         {
+            "Key": "715060da-54ef-4a00-b0ae-d3c160f29868",
+            "Value": {
+                "id": "e5a61c83-d74a-4f63-ae07-505430bf51b1",
+                "resourcePath": "paths\\path4\\path4.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "71ee23cf-71ce-42b6-958e-2679fc0ac729",
             "Value": {
                 "id": "696f8474-f8c6-4bd8-83dd-6cc579a6f25d",
@@ -244,6 +276,14 @@
                 "id": "5f1e8608-9f4b-4408-9e99-72f93f0dd33e",
                 "resourcePath": "views\/9e98ad23-429b-49d0-8dcd-6c0d630db689.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a60bd433-64df-4fa4-8111-33eea7db3bb5",
+            "Value": {
+                "id": "c73ac5a8-038e-4702-a3a5-b1b1c860aa44",
+                "resourcePath": "paths\\path3\\path3.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -404,6 +444,14 @@
                 "id": "0ed76cda-9f9d-48ff-9234-bc849f988617",
                 "resourcePath": "scripts\/Left\/Left.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f2b00cdc-19b8-4a7c-a5f8-9b94fdbc3ce6",
+            "Value": {
+                "id": "ac6ab887-c84e-4128-b2d6-f61ea6884794",
+                "resourcePath": "paths\\path1\\path1.yy",
+                "resourceType": "GMPath"
             }
         },
         {
