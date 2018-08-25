@@ -74,7 +74,7 @@
             "Key": "2632da4d-10b0-4771-8371-d8bb00d04520",
             "Value": {
                 "id": "886110ae-7312-47c8-9211-35d70b540afe",
-                "resourcePath": "scripts\\Bullet\\Bullet.yy",
+                "resourcePath": "scripts\\CreateBullet\\CreateBullet.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -148,6 +148,14 @@
                 "id": "49925cd9-b360-4bb8-b67c-55f6f6d20f35",
                 "resourcePath": "views\/66646153-210d-40b5-9776-f4dfff9fba02.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6aa71061-9a5e-4bef-86f8-ed2db4fc660f",
+            "Value": {
+                "id": "1fd475df-4831-4a02-9449-0e72a5aee491",
+                "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
+                "resourceType": "GMObject"
             }
         },
         {
