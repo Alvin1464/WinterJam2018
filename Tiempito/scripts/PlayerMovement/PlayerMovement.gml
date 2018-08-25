@@ -2,11 +2,11 @@
 
 if(!DetectedController) then return;
 
-if (abs(xaxis) > analogThreshold){
+if (abs(xaxis) > analogThreshold) && place_free(x+xaxis * movSpeed,y){
 	x += xaxis * movSpeed;
 }
 
-if (abs(yaxis) > analogThreshold){
+if (abs(yaxis) > analogThreshold) && place_free(x,y+yaxis * movSpeed){
 	y += yaxis * movSpeed;
 }
 

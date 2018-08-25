@@ -2,3 +2,4 @@
 // You can write your code in this editor
 enemyLifeHP = obj_gameConfig.enemyStartHP;
 invulnerableKnockOut=false;
+movSpeed = obj_gameConfig.enemyMovSpeed;

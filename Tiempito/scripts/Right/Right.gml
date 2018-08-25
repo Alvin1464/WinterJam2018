@@ -1,1 +1,1 @@
-x+=movSpeed;
+if place_free(x+movSpeed,y) then x+=movSpeed;
