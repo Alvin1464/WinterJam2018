@@ -1,1 +1,1 @@
-x+=movSpeed;
+x-=movSpeed;

@@ -55,11 +55,27 @@
             }
         },
         {
+            "Key": "130d7ab2-3da4-442e-82ee-67c63d85cb1a",
+            "Value": {
+                "id": "5c17ad7d-a74d-42fb-8a8c-6c3ba568c7a4",
+                "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1d55bb2a-8e22-4332-b29d-a07472ae1e4b",
             "Value": {
                 "id": "e2f4d452-9dd3-4e87-80c6-b6b775b3aba8",
                 "resourcePath": "views\/1d55bb2a-8e22-4332-b29d-a07472ae1e4b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2632da4d-10b0-4771-8371-d8bb00d04520",
+            "Value": {
+                "id": "886110ae-7312-47c8-9211-35d70b540afe",
+                "resourcePath": "scripts\\Bullet\\Bullet.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -319,6 +335,14 @@
             }
         },
         {
+            "Key": "e047b07f-d548-4f88-8168-1efdbe72cba8",
+            "Value": {
+                "id": "2721881f-9080-4035-af50-c488acbdcb8f",
+                "resourcePath": "scripts\\KeyboardImput\\KeyboardImput.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e9b0dad8-4718-4113-871d-4348263d55bf",
             "Value": {
                 "id": "0ed76cda-9f9d-48ff-9234-bc849f988617",
@@ -352,7 +376,9 @@
         "e9b0dad8-4718-4113-871d-4348263d55bf",
         "93a7334c-5404-4284-af9e-50d8b0793ed5",
         "b2f8adb8-d517-454a-aa00-94c1aaf98b9b",
-        "b97355c5-8f5d-49d6-af2b-f933161dc634"
+        "b97355c5-8f5d-49d6-af2b-f933161dc634",
+        "2632da4d-10b0-4771-8371-d8bb00d04520",
+        "e047b07f-d548-4f88-8168-1efdbe72cba8"
     ],
     "tutorial": ""
 }

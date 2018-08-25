@@ -1,2 +1,3 @@
 KeyImput();
+KeyboardImput();
 PlayerMovement();
