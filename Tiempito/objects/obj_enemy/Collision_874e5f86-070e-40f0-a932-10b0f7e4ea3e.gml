@@ -5,6 +5,7 @@ var knockOutFrames = 20;
 if(!invulnerableKnockOut){
 	enemyLifeHP = Damage(enemyLifeHP);
 	invulnerableKnockOut=true;
+	path_speed = 0;
 	alarm[0]=knockOutFrames;
 }
 if(enemyLifeHP==0){
