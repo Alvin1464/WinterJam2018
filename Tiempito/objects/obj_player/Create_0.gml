@@ -6,6 +6,7 @@ rTrigger = noone;
 lTrigger = noone;
 btnA = noone;
 analogThreshold = noone;
+start = noone;
 playerLifeHP = obj_gameConfig.playerStartHP;
 playerDirection = obj_gameConfig.playerStartDirection;
 movSpeed = obj_gameConfig.movSpeed;

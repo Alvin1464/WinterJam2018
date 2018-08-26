@@ -8,7 +8,8 @@
         "9d7e1761-badd-4ff3-949e-adf1303b7ec3",
         "07307029-cc18-4326-9248-4c833e650427",
         "9b72105e-80fb-4fdb-931b-ea46cbddf662",
-        "ab90e43a-f4ee-43cb-baad-fead4dd4e0b9"
+        "ab90e43a-f4ee-43cb-baad-fead4dd4e0b9",
+        "53111f13-2334-45a6-8ffa-e5a11ebf75b6"
     ],
     "filterType": "GMSprite",
     "folderName": "Menu",

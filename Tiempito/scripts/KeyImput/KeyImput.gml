@@ -7,7 +7,7 @@ DetectedController = gamepad_is_connected(0);
 //These inputs are inherited by the objects invoking this script
 if DetectedController{ //Check if there's a Joystick
     
-//	start = gamepad_button_check(JugadorControl,gp_start);
+	start = gamepad_button_check(0,gp_start);
 	
 
 	xaxis = gamepad_axis_value(0, gp_axislh);
@@ -48,7 +48,7 @@ if DetectedController{ //Check if there's a Joystick
 //	lBumper = gamepad_button_check_pressed(JugadorControl,gp_shoulderl);
 	
 }else{
-//	start = noone;
+	start = noone;
 //	lsDown = noone;
 //	lsLeft = noone;
 //	lsRight = noone;

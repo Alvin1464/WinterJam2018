@@ -15,7 +15,7 @@ if(enemyLifeHP==0){
 	instance_change(obj_enemyDeath,true);
 	image_index = 0;
 	
-	instance_create_layer(x,y,1,obj_points)
+	instance_create_layer(x,y,"Instances",obj_points)
 	with obj_Score{
 		combo += 1;
 		alarm[0] = 5*fps;

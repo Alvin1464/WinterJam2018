@@ -15,7 +15,7 @@ if(buttonPressed){
 	if(!slowMotionActive && !onColdDown){
 		slowMotionActive = true;
 		onColdDown = true;
-		instance_create_layer(x,y,1,obj_slowEffect);
+		instance_create_layer(x,y,"Instances",obj_slowEffect);
 		alarm[0] = 60*obj_gameConfig.slowMotionDuration;
 	}
 }
@@ -31,7 +31,7 @@ if(button2Pressed){
 	if(!reverseActive && !onColdDown){
 		reverseActive = true;
 		onColdDown = true;
-		instance_create_layer(obj_player.x,obj_player.y,1,obj_reverseEffect);
+		instance_create_layer(obj_player.x,obj_player.y,"Instances",obj_reverseEffect);
 		if(obj_player.playerLifeHP<3) then obj_player.playerLifeHP += 1;
 		alarm[2] = 60*obj_gameConfig.reverseDuration;
 	}

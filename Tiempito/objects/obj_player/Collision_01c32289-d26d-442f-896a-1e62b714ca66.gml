@@ -12,5 +12,5 @@ with other instance_destroy();
 
 if(playerLifeHP <= 0){
 	sprite_index = spr_playerDeath;
-	instance_create_layer(x,y,1,obj_GameOver);
+	instance_create_layer(x,y,"Instances",obj_GameOver);
 }
