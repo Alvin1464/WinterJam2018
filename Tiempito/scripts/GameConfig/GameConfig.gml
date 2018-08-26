@@ -9,3 +9,4 @@ enemyMovSpeed = 6;
 enemyShootPause = 30;
 startSpawnTimer = 20;
 spawnTimeDecrement = 3;
+enemyShootAmmount = 5;
