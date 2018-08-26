@@ -11,4 +11,4 @@ with instance_create_layer(x,y,"Instances",obj_enemy){
 spawnTime -= obj_gameConfig.spawnTimeDecrement;
 if(spawnTime < 0)
 	spawnTime = 0;
-alarm[0] = 60*spawnTime + random_range(60*5,60*15);
+alarm[0] = 60*spawnTime + random_range(60*3,60*15);
