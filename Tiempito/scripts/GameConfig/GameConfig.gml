@@ -16,5 +16,6 @@ enemySlowMotionSpeed = 1;
 bulletSlowMotionSpeed = 2;
 powerUpCouldDown = 5;
 reverseDuration = 2;
-reverseRange = 400;
+reverseRange = 1500;
+reverseSpeed = 2;
 points = 20;

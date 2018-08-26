@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "2346b202-e5c9-4114-8303-768e46c5a50d",
+            "Value": {
+                "id": "8e7bde90-c5d6-49de-8df9-e3c43bfee905",
+                "resourcePath": "objects\\obj_bulletCol\\obj_bulletCol.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2632da4d-10b0-4771-8371-d8bb00d04520",
             "Value": {
                 "id": "886110ae-7312-47c8-9211-35d70b540afe",
@@ -335,6 +343,14 @@
             }
         },
         {
+            "Key": "542c1058-d3bf-4838-a155-2d63d7faf300",
+            "Value": {
+                "id": "d5462edf-0b37-43fd-8bb8-4ec2930abfe9",
+                "resourcePath": "sprites\\spr_enemyHit\\spr_enemyHit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "56937c58-fb4e-4066-a36d-6681f7bc3c5e",
             "Value": {
                 "id": "a2302c3e-bba9-47e7-9ca2-f246cd16c080",
@@ -468,6 +484,14 @@
                 "id": "ee138e66-8644-41cf-842c-256768030e37",
                 "resourcePath": "objects\/obj_Score\/obj_Score.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7957dcc6-f4b8-432d-966a-711459b2e4f4",
+            "Value": {
+                "id": "e536b87b-ba27-4c11-9e44-fe4ffc99b8ce",
+                "resourcePath": "sprites\\spr_bulletCol\\spr_bulletCol.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -844,6 +868,14 @@
                 "id": "0ed76cda-9f9d-48ff-9234-bc849f988617",
                 "resourcePath": "scripts\/Left\/Left.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "eb86d46a-ea7f-4bf8-84b1-68ae5aa67b00",
+            "Value": {
+                "id": "fc0fc7c1-2170-4060-962e-3d7387d091ea",
+                "resourcePath": "sprites\\spr_hitAnim\\spr_hitAnim.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
