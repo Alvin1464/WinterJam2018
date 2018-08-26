@@ -4,6 +4,8 @@ keyDown = keyboard_check(vk_down);
 keyLeft = keyboard_check(vk_left);
 keyRight = keyboard_check(vk_right);
 keyUp = keyboard_check(vk_up);
+spaceBar = keyboard_check(vk_space);
+shift = keyboard_check(vk_shift);
 
 
 if sprite_index != spr_playerAttack && sprite_index != spr_playerAttackBack{
