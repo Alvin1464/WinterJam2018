@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_doorForeground",
     "eventList": [
-        
+        {
+            "id": "6ee6151d-3ed0-4787-a12c-41c0cf4f94fc",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "7c202d38-73de-4359-b07c-e6138db3b84d"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

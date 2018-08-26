@@ -6,5 +6,7 @@ shootAmmount-=1;
 if(shootAmmount > 0){
 	alarm[2] = shootPause;
 }else{
+	sprite_index = spr_enemyRun;
 	path_speed = movSpeed;
+	alarm[1] = random_range(50,400);
 }

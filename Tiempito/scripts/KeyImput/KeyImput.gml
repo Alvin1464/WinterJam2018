@@ -30,7 +30,7 @@ if DetectedController{ //Check if there's a Joystick
 
     //Buttons
     //A
-//    btnA = gamepad_button_check_pressed(JugadorControl,gp_face1);
+   btnA = gamepad_button_check_pressed(0,gp_face1);
 	
     //B
 //    btnB = gamepad_button_check_pressed(JugadorControl,gp_face2);
@@ -53,7 +53,7 @@ if DetectedController{ //Check if there's a Joystick
 //	lsLeft = noone;
 //	lsRight = noone;
 //	lsUp = noone;
-//	btnA = noone;
+	btnA = noone;
 //	btnB = noone;
 //	btnX = noone;
 //	btnY = noone;

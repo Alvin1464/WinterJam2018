@@ -7,6 +7,7 @@ if(!invulnerableKnockOut){
 	invulnerableKnockOut=true;
 	alarm[0]=knockOutFrames;
 }
-
-if(enemyLifeHP==0)
+if(enemyLifeHP==0){
+	instance_create_layer(x,y,0,obj_enemyDeath);
 	instance_destroy();
+}
