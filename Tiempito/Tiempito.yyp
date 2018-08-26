@@ -261,6 +261,9 @@
                 "id": "892f5de5-22a6-4453-960c-6c80f6a3e3fa",
                 "resourcePath": "sprites\\spr_heart2\\spr_heart2.yy",
                 "resourceType": "GMSprite"
+		}
+	},
+        {
             "Key": "175bc226-6514-4221-abd3-e38010e131b8",
             "Value": {
                 "id": "e9ebc64b-3d62-41aa-af1a-c01e9ce33c21",
@@ -645,6 +648,7 @@
                     "default"
                 ],
                 "resourcePath": "objects\/obj_Hud\/obj_Hud.yy",
+
                 "resourceType": "GMObject"
             }
         },
