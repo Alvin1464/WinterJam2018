@@ -1,3 +1,5 @@
+if(sprite_index==spr_playerDeath) then return;
+
 var attackObj = instance_create_layer(x,y,0,obj_attack);
 var attackDir = playerDirection;
 if(attackDir == "up"){

@@ -4,6 +4,8 @@ if(recovering==false){
 	playerLifeHP = Damage(playerLifeHP);
 	recovering = true;
 	alarm[0] = recoverTime;
+	
+	obj_Score.combo = 1;
 }
 with other instance_destroy();
 

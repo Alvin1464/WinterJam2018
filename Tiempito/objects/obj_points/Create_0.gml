@@ -1,7 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-globalvar FinalScore;
-
-FinalScore = 0;
-
-combo = 1;
+points = obj_gameConfig.points * obj_Score.combo;
+alpha = 1;
+vspeed = -2;
