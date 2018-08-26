@@ -11,3 +11,7 @@ startSpawnTimer = 20;
 spawnTimeDecrement = 3;
 enemyShootAmmount = 5;
 playerRecoverTime = 85;
+slowMotionDuration = 10;
+enemySlowMotionSpeed = 3;
+bulletSlowMotionSpeed = 5;
+powerUpCouldDown = 5;

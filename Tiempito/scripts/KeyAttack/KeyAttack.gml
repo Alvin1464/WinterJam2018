@@ -3,7 +3,7 @@ if(DetectedController){
 		Attack();
 	}
 }else{
-	if(keyboard_check(vk_space)){
+	if(spaceBar){
 		Attack();
 	}
 }
