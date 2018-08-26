@@ -1,4 +1,5 @@
 if(DetectedController) then return;
+if(sprite_index==spr_playerDeath) then return;
 
 keyDown = keyboard_check(vk_down);
 keyLeft = keyboard_check(vk_left);

@@ -1,6 +1,7 @@
 //Player movement
 
 if(!DetectedController) then return;
+if(sprite_index==spr_playerDeath) then return;
 
 if (abs(xaxis) > analogThreshold) && place_free(x+xaxis * movSpeed,y){
 	x += xaxis * movSpeed;
