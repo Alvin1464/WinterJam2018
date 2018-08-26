@@ -6,6 +6,7 @@ if(!invulnerableKnockOut){
 	enemyLifeHP = Damage(enemyLifeHP);
 	invulnerableKnockOut=true;
 	alarm[0]=knockOutFrames;
+	path_speed = 0;
 }
 if(enemyLifeHP==0){
 	path_speed = 0;
