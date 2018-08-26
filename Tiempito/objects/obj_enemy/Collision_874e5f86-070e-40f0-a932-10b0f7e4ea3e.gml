@@ -8,6 +8,7 @@ if(!invulnerableKnockOut){
 	sprite_index = spr_enemyHit;
 	alarm[0]=knockOutFrames;
 	path_speed = 0;
+	audio_play_sound(playerAttack,1,false);
 }
 if(enemyLifeHP==0){
 	path_speed = 0;

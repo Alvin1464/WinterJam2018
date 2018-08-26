@@ -5,3 +5,4 @@ targetLocked = true;
 playerX = obj_player.x;
 playerY = obj_player.y+20;
 BulletTrajectory();
+audio_play_sound(bulletSoot,1,false);

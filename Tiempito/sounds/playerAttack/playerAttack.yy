@@ -1,14 +1,14 @@
 {
-    "id": "7dadfabf-fda3-4739-ab13-7b71dbd0f54a",
+    "id": "5a928684-09bf-4945-b8ed-8f6f4fec5264",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "bgmIntro",
+    "name": "playerAttack",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
     "kind": 0,
     "preload": false,
     "sampleRate": 44100,
-    "type": 1,
-    "volume": 0.5
+    "type": 0,
+    "volume": 1
 }

@@ -6,6 +6,7 @@ if(recovering==false){
 	alarm[0] = recoverTime;
 	
 	obj_Score.combo = 1;
+	audio_play_sound(playerGetHit,1,false);
 }
 with other instance_destroy();
 
