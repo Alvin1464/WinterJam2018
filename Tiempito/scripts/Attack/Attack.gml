@@ -3,7 +3,7 @@ var attackDir = playerDirection;
 if(attackDir == "up"){
 	attackObj.image_angle = 0;
 	image_index = 0;
-	sprite_index = spr_playerAttack;
+	sprite_index = spr_playerAttackBack;
 }
 if(attackDir == "left"){
 	attackObj.image_angle = 90;

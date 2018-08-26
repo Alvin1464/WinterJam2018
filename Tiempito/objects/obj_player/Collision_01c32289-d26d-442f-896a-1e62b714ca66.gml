@@ -6,3 +6,7 @@ if(recovering==false){
 	alarm[0] = recoverTime;
 }
 with other instance_destroy();
+
+if(playerLifeHP <= 0){
+	instance_create_layer(x,y,1,obj_GameOver);
+}
